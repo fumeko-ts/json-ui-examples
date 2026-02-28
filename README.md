@@ -646,3 +646,11 @@ Content:
 [![abcd](https://img.youtube.com/vi/F57yradtxH0/0.jpg)](https://www.youtube.com/watch?v=F57yradtxH0)
 
 ---
+
+### Java like Chest UI in Server Forms
+
+[https://github.com/Herobrine643928/Chest-UI](Source Code)
+
+<img width="870" height="665" alt="image" src="https://github.com/user-attachments/assets/bb97e685-99f2-4718-b57a-6df4b6c64137" />
+
+<img width="346" height="324" alt="image" src="https://github.com/user-attachments/assets/1fa683e3-9dcc-4672-afcd-4c8da78e1166" />
