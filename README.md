@@ -255,7 +255,9 @@ Content:
     "target_property_name": "#color"
   }
 ]
-``` 
+```
+
+28. [Factory Controls IDs Working](https://discord.com/channels/523663022053392405/1067870274894172260/1473376432896999666)
 
 ## Creations
 
